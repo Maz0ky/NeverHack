@@ -1,0 +1,13 @@
+{
+    "manifest_version" : 3,
+    "name" : "Project Extension Chrome",
+    "version" : "1.0",
+    "description" : "On sait pas",
+    "permissions" : [
+        "scripting",
+        "activeTab"
+    ],
+    "action" : {
+        "default_popup" : "popup.html"
+    }
+}
